@@ -8,7 +8,7 @@
 
 	<test thread-count="5" name="UsersRestAPITest">
 		<classes>
-			<class name="com.usersapi.testcases.TC001_Get_ListUsers" />
+			<!-- <class name="com.usersapi.testcases.TC001_Get_ListUsers" /> -->
 			<class name="com.usersapi.testcases.TC002_Get_SingleUser" />
 			<class name="com.usersapi.testcases.TC003_Post_CreateUser" />
 			<class name="com.usersapi.testcases.TC004_Put_UpdateExistingUserData" />
